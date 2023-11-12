@@ -1,0 +1,12 @@
+20:34:00.518 INFO  tests.TestBase ******* Start test public void tests.LoginTests.loginPositiveTest()
+20:34:00.529 INFO  manage.MyListener Start searching element by By.xpath: //a[@href='/login']
+20:34:00.562 INFO  manage.MyListener The element with locator by By.xpath: //a[@href='/login'] is found successfully
+20:34:00.628 INFO  manage.MyListener Start searching element by By.xpath: //input[1]
+20:34:00.646 INFO  manage.MyListener The element with locator by By.xpath: //input[1] is found successfully
+20:34:00.782 INFO  manage.MyListener Start searching element by By.xpath: //input[2]
+20:34:00.802 INFO  manage.MyListener The element with locator by By.xpath: //input[2] is found successfully
+20:34:00.891 INFO  manage.MyListener Start searching element by By.xpath: //button[1]
+20:34:00.909 INFO  manage.MyListener The element with locator by By.xpath: //button[1] is found successfully
+20:34:00.939 INFO  manage.MyListener Start searching element by By.xpath: //button[.='Sign Out']
+20:34:02.132 INFO  manage.MyListener The element with locator by By.xpath: //button[.='Sign Out'] is found successfully
+20:34:02.138 INFO  tests.TestBase ******* Finish test 

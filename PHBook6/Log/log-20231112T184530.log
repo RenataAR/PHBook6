@@ -1,0 +1,11 @@
+18:45:33.499 INFO  tests.TestBase registrationPositiveTest starts with: galina2733@gmail.com & Gg123456$
+18:45:33.503 INFO  manage.MyListener Start searching element by By.xpath: //a[@href='/login']
+18:45:33.528 INFO  manage.MyListener The element with locator by By.xpath: //a[@href='/login'] is found successfully
+18:45:33.588 INFO  manage.MyListener Start searching element by By.xpath: //input[1]
+18:45:33.601 INFO  manage.MyListener The element with locator by By.xpath: //input[1] is found successfully
+18:45:33.762 INFO  manage.MyListener Start searching element by By.xpath: //input[2]
+18:45:33.788 INFO  manage.MyListener The element with locator by By.xpath: //input[2] is found successfully
+18:45:33.915 INFO  manage.MyListener Start searching element by By.xpath: //button[2]
+18:45:33.943 INFO  manage.MyListener The element with locator by By.xpath: //button[2] is found successfully
+18:45:33.972 INFO  manage.MyListener Start searching element by By.xpath: //button[.='Sign Out']
+18:45:35.107 INFO  manage.MyListener The element with locator by By.xpath: //button[.='Sign Out'] is found successfully
